@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Canola Oil",
+    "description": "Canola oil is a versatile vegetable oil derived from canola plant seeds. Known for its mild flavor and high smoke point, it's ideal for various culinary uses like cooking, frying, and baking. Rich in unsaturated fats, it supports a balanced diet with low saturated fats and beneficial omega-3 and omega-6 fatty acids.",
+    "uses": "Cooking\nSalad dressings\nDeep frying\nFood manufacturing",
+    "storage": "To maintain canola oil's quality, store it in a cool, dark place, away from heat and light. Use it within a reasonable time after opening for optimal freshness. Its culinary versatility, health benefits, and eco-friendly production make it a valuable choice for enhancing cooking while supporting sustainability.",
+    "specifications": "Low saturated fat\nHigh in monounsaturated fats\nContains omega-3 fatty acids\nSmoke point: -4000F (204C)"
+  },
+  {
+    "name": "Sunflower Oil",
+    "description": "Derived from sunflower seeds, this oil is esteemed in culinary circles for its subtle flavor and heat resilience. Its application in various cuisines highlights its versatility. The oil's stability at high temperatures makes it a preferred choice among chefs and producers.",
+    "uses": "Cooking\nBaking\nDeep frying\nCosmetics",
+    "storage": "To preserve the quality of sunflower oil, keep it in a cool, dark place, away from heat and light. For optimal freshness, use it within a reasonable time after opening. With its culinary versatility, health benefits, and eco-friendly production, sunflower oil is an excellent choice for enhancing cooking while promoting sustainability.",
+    "specifications": "Rich in vitamin E\nHigh in unsaturated fats\nSmoke point: -4400F (227C)"
+  },
+  {
+    "name": "Edible Oil(Palm)",
+    "description": "This oil, derived from sunflower seeds, is highly regarded in culinary circles for its subtle flavor and ability to withstand heat. Its versatility is showcased across various cuisines. The oil's stability at high temperatures makes it a preferred choice among chefs and producers.",
+    "uses": "Cooking\nBaking\nDeep frying\nSalad dressing",
+    "storage": "To maintain the qualityof edible oil, store it in a cool, dark place, away from heat and light. For best freshness, use it within a reasonable period after opening. With its culinary versatility, health benefits, and eco-friendly production, edible oil is an excellent choice for enhancing cooking while promoting sustainability.",
+    "specifications": "Rich in vitamin E\nHigh in unsaturated fats\nSmoke point: —4400F (227C)"
+  },
+  {
+    "name": "ICUMSA 45 sugar",
+    "description": "ICIJMSA 45 is esteemed as the highest-quality refined sugar. It is widely used in the food processing industry and is a key ingredient in numerous beverages. Its superior quality makes it a preferred choice for manufacturers seeking premium sugar.",
+    "uses": "Beverages\nConfectionery\nFood industry\nPharmaceuticals",
+    "storage": "To pnaintain the quality of ICIJMSA 45 Sugar, store it in a cool, dark location, away from heat and direct light. For optimal freshness, it is advisable to utilize it within a reasonable period after opening. Due to its high purity, consistent quality, and suitability for various applications, ICIJMSA 45 Sugar is an excellent choice for enhancing culinary creations while ensuring reliability and quality.",
+    "specifications": "ICIJMSA rating: 45\nPolarization: 99.8% minimum\nMoisture.vO.04% max"
+  },
+  {
+    "name": "Cardamom",
+    "description": "This spice, knöwn for its strong aromatic properties, is commonly utilized in culinary applications, including cooking, baking, and the preparation of beverages. It is available for purchase in either whole pod form or as a finely ground powder.",
+    "uses": "Spices\nTeas\nSweets\nMedicinal Apps",
+    "storage": "To the quality of cardamom, store it in a cool, dark place, away from heat and direct light. For optimal freshness, it's best to use it within a reasonable period after opening. Cardamom's rich aroma and versatile flavor make it an excellent choice for enhancing culinary creations while ensuring consistent quality and taste.",
+    "specifications": "Green cardamom or black cardamom\nEssential oil content: 2-8%\nStrong, aromatic fragrance"
+  },
+  {
+    "name": "G9 Cavendish Bananas",
+    "description": "The banana variety, renowned for its extended shelf life and sweetness, is highly favored. Primarily utilized for fresh consumption, it offers a convenient and nutritious snack. Its versatility also makes it an ideal ingredient for smoothies and baking, enhancing the flavor of various culinary creations.",
+    "uses": "Fresh consumption\nSmoothies\nBaking",
+    "storage": "To maintain the quality of G9 Cavendish Bananas, store them at room temperature, away from direct sunlight and heat sources. For optimal freshness, consume them within a reasonable period after they ripen. G9 Cavendish Bananas' sweet taste and smooth texture make them an excellent choice for a variety of culinary creations while ensuring consistent quality and flavor.",
+    "specifications": "Length: 18-25 cm\nBrix level: 18-20\nPackaged in 13.5 kg boxes"
+  },
+  {
+    "name": "Spunta Potatoes",
+    "description": "The potato is noted for its firm, yellow flesh and smooth texture. It is well-suited for cooking and frying. Its consistency and flavor make it ideal for a variety of dishes. Additionally, its texture ensures even cooking, enhancing meal quality. This potato is often preferred by chefs and home cooks for its versatility in recipes.",
+    "uses": "Cooking\nDeep frying\nFood Processing",
+    "storage": "To maintain the quality of Spunta Potatoes, store them in a cool, dark place, away from direct sunlight and heat sources. For optimal freshness, use them within a reasonable period after purchase. Spunta Potatoes' creamy texture and mild flavor make them an excellent choice for a variety of culinary creations while ensuring consistent quality and taste.",
+    "specifications": "Size: 40-80 mm\nLow sugar content\nLong shelf life"
+  },
+  {
+    "name": "Durum Wheat",
+    "description": "This wheat variety, known for its high protein content, is predominantly utilized in the production of pasta, semolina, and bread. It is particularly well-suited for making pasta, couscous, and bread, as well as being an essential ingredient in flour production. Its unique properties make it an invaluable component in these culinary applications.",
+    "uses": "pasta\nCouscous\nBread\nFlour",
+    "storage": "To preserve the quality of Durum Whea€, it should be stored in a cool,.dark environment, away from direct sunlight and heat sources. To ensure optimal freshness, it is advisable to use it within a reasonable timeframe following purchase. Durum Wheats firm texture and subtle flavor make it an ideal choice for a wide range of culinary applications, consistently delivering superior quality and taste.",
+    "specifications": "Protein: 12-15%\nMoisture: 12% max\nHigh gluten content"
+  },
+  {
+    "name": "Basmati Rice",
+    "description": "This rice variety is a long-grain type cultivated primarily in the Indian subcontinent, renowned for its distinctive fragrance. It is celebrated for its aromatic flavor, which enhances a multitude of culinary dishes. The rice's unique characteristics make it a sought-after ingredient in both traditional and contemporary cuisines.",
+    "uses": "Pilaf\nBiryani\nSide Dishes",
+    "storage": "To maintain the quality of Basmati Rice, store it in a cool, dark place, away f/om direct sunlight and heat. For the best freshness, it's recommended to use it within a reasonable period after purchase. Basmati Rice's delicate aroma and fluffy texture make it an excellent choice for various culinary dishes, consistently offering superior quality and flavor.",
+    "specifications": "Length: 6.8 mm+\nMoisture: 12% max\nAged for at least 12 months"
+  },
+  {
+    "name": "Horse Mackerel",
+    "description": "This fish is a small, pelagic species renowned for its firm texture, making it a popular choice in various culinary applications. It is highly valued for its rich content of omega-3 fatty acids, which are beneficial for heart health. Its nutritional profile and versatile use in cooking make it a sought-after option for health-conscious consumers.",
+    "uses": "Canned fish\nFrozen fillets\nFresh consumption",
+    "storage": "To maintain the quality of Horse Mackerel, store it in a cool, dark place, away from direct sunlight and heat. For the best freshness, it's recommended to consume it within a reasonable period after purchase. Horse Mackerel's distinct flavor and firm texture make it an excellent choice for various culinary dishes, consistently offering superior quality and taste.",
+    "specifications": "Size: 200-600 grams\nProcessing: Frozen or fresh"
+  },
+  {
+    "name": "Atlantic Mackerel",
+    "description": "This fish, known for its robust flavor, is rich in natural fats, making it a popular choice for smoking, grilling, or canning. Its distinctive taste is well-suited to a variety of culinary applications. As a result, it is highly regarded in both gourmet and traditional cooking methods.",
+    "uses": "Canned fish\nFrozen fillets\nGrilled",
+    "storage": "To preserve the quality of Atlantic Mackerel, it should be stored in a cool, dark location, away from direct sunlight and heat. For optimal freshhess, it is advisable to consume it within a reasonable timeframe following purchase. The distinctive flavor and firm texture of Atlantic Mackerel make it an exceptional choice for a variety of culinary' application* consistently providing superior quality and taste.",
+    "specifications": "Size: 200-600 grams\nOmega-3 rich"
+  },
+  {
+    "name": "Pacific Mackerel",
+    "description": "The species in question bears resemblance to the Atlantic mackerel, yet it inhabits the Pacific Ocean. It is distinguished by its similar characteristics, adapted to the unique conditions of its environment. This distinction emphasizes the diversity within marine ecosystems across different oceans.",
+    "uses": "Canned fish\nFrozen fillets\nGrilled",
+    "storage": "To maintain the quality of Pacific Mackerel, it should be stored in a cool, dark place, shielded from direct sunlight and heat. For optimal freshness, it is recommended to consume it within a reasonable period after purchase. The distinctive flavor and firm texture of Pacific Mackerel make it an excellent choice for a variety of culinary applications, consistently offering superior quality and taste.",
+    "specifications": "Size: 150-400 grams\nHigh protein content"
+  },
+  {
+    "name": "Atlantic Herring",
+    "description": "This is a species of cold-water fish commonly utilized in various culinary applications such as smoking, pickling, or canning. It is renowned for its versatility and ability to retain flavor and texture through these preservation methods.",
+    "uses": "Canned fish\nFrozen fillets\nSmoked",
+    "storage": "To maintain the quality of Atlantic Herring, it should be stored in a cool, dark place, shielded from direct sunlight and heat. For optimal freshness, it is recommended to consume it within a reasonable period after purchase. The distinctive flavor and firm texture of Atlantic Herring make it an excellent choice for a variety of culinary applications, consistently offering superior quality and taste.",
+    "specifications": "Size: 150-400 grams\nHigh in omega-3"
+  },
+  {
+    "name": "Argentine Red Shrimp",
+    "description": "This exceptional variety of shrimp is renowned for its delightful sweetness and vibrant red hue, making it a standout choice for seafood enthusiasts. Its superior quality distinguishes it as a premium selection among shrimp varieties, appealing to discerning palates. The unique combination of taste and visual appeal ensures its esteemed status in culinary circles.",
+    "uses": "Grilled\nSautéed\nSeafood dishes",
+    "storage": "To \"aintain the quality of Argentine Red Shrimp, it should be stored in a cool, dark place, away from direct sunlight and heat. For optimal freshness, it is recommended to consume it within a reasonable period after purchase. The distinctive flavor and firm texture of Argentine Red Shrimp make it an excellent choice for a variety of culinary applications, consistently offering superior quality and taste.",
+    "specifications": "Size: 10-15 cm\nProcessed: Fresh, frozen"
+  },
+  {
+    "name": "European Sardines",
+    "description": "These small fish are known for their high nutritional value. They are frequently preserved in cans or prepared by grilling. Their rich nutrient content makes them a popular choice for those seeking a wholesome addition to their diet.",
+    "uses": "Canned fish\nFresh Food\nGrilled",
+    "storage": "To maintain the quality of European Sardines, they should be stored in a cool, dark place, away from direct sunlight and heat. For optimal freshness, it is recommended to consume them within a reasonable period after purchase. The distinctive flavor and firm texture of European Sardines make them an excellent choice for a variety of culinary applications, consistently offering superior quality and taste.",
+    "specifications": "Size: 12-18 cm\nOmega-3 content: High"
+  },
+  {
+    "name": "Gold",
+    "description": "Gold is an exceptionally versatile metal, widely utilized in jewelry, electronics, and financial sectors. Its unique properties make it an essential element in numerous industries, playing a vital role in both economic and technological developments. Celebrated for its durability and conductivity, gold continues to be an invaluable resource in modern innovation and investment.",
+    "uses": "Jewelry manufacturing\nElectronics production\nPersonal Investment",
+    "storage": "To breserve the quality of gold, it should be kept in a secure, temperature-controlled environment, shielded from direct sunlight and humidity. For optimal condition, it is advisable to handle it with care and conduct regular inspections. The unique characteristics and lasting value of gold make it a preferred choice for a range of uses, consistently providing exceptional stability and dependability.",
+    "specifications": "Purity: 98% min\nCarats: 23+\nSource: Vetted East African communities"
+  },
+  {
+    "name": "Copper",
+    "description": "This metal is highly versatile, finding eodensive use in electrical wiring, construction, and various industrial applications. Its adaptability makes it a crucial component in numerous sectors, contributing significantly to modern infrastructure. Renowned for its reliability and efficiency, it remains an indispensable material in both technological and architectural advancements.",
+    "uses": "Electrical wiring\nPlumbing\nIndustrial Machinery",
+    "storage": "To maintain the quality of Copper, it sh8uld be stored in a cool, dry place, away from direct sunlight and moisture. For optimal condition, it is recommended to use it within a reasonable period after purchase. The distinctive properties and durability of Copper make it an excellent choice for a variety of applications, consistently offering superior performance and reliability.",
+    "specifications": "Purity: 99.9% min\nForms: Cathodes, wire, rods\nSource: Zambia and Tanzania"
+  },
+  {
+    "name": "Aluminium",
+    "description": "This is a versatile and lightweight metal known for its exceptional resistance to corrosion, making it an ideal choice for a variety of applications. It iS extensively utilized in the construction industry for its strength and durability, ensuring long-lasting structures. Additionally, its use in packaging and transportation highlights its importance, as it contributes to both efficiency and sustainability in these fields.",
+    "uses": "Aerospace\nAutomotive\nPackaging\nIndustrial Manufacturing",
+    "storage": "To maintain the quality of Aluminium, it should be stored in a cool, dry place, away from direct sunlight and moisture. For optimal condition, it is recommended to use it Within a reasonable period after purchase. The distinctive properties and durability of Aluminium make it an excellent choice for a variety of applications, consistently offering superior performance and reliability.",
+    "specifications": "Purity: 99.7% min\nForms: Sheets, ingots, coils"
+  },
+  {
+    "name": "EN590 Diesel (1Oppm)",
+    "description": "EN590 is the European standard for ultra-low sulfur diesel fuel, designed for maximum performance and minimal environmental impact. With a sulfur content of just 10 parts per million (ppm), EN590 meets strict EU emissions regulations and is the preferred diesel grade for modern engines.",
+    "Origin & Quality": "Our EN590 is primarily sourced from the refineries of Kazakhstan and Qatar, nations known for their robust energy sectors and adherence to international fuel quality standards. The diesel undergoes stringent refining processes, ensuring it meets or exceeds EN590 specifications for ignition quälity (cetane number), cold flow peflormance ,and low sulfur emissions.",
+    "Logistics & Export": "From there, cargo is dispatched globally via FOB, CIF, or DAP terms, tailored to client requirements. Our logistics partners ensure secure, reliable, and timely deliveries.",
+    "specifications": "Sulfur content: SIO ppm\nCetane number: 251\nDensity @ 150C: 820-845 kg/m3\nFlash point: 2550C\nCold Filter Plugging Point (CFPP): Varies by season/region\nCompliance: EN590:2009+A1 •.2010 (latest amendments applied)"
+  },
+  {
+    "name": "Jet Aviation",
+    "description": "Jet A-1 is a high-quality aviation turbine fuel used in commercial and military aircraft worldwide. Its stability under extreme conditions, low freezing point, and clean combustion make it the global standard for jet propulsion.",
+    "Origin & Quality": "Our Jet A-1 supply originates in Kazakhstan and Qatar, countries with top-tier refining infrastructure and a long-standing reputation for consistent fuel production. Each batch is tested for thermal stability, flash point, and freezing point, in strict accordance with ASTM DI 655 and DEF STAN 91-091 standards.",
+    "Logistics & Export": "From there, cargo is dispatched globally via FOB, CIF, or DAP terms, tailored to client requirements. Our logistics partners ensure secure, reliable, and timely deliveriesJet A-1 is exported in bulk through the Port of Rotterdam, a central node for global aviation fuel distribution. Whether supplying international airports or strategic buyers, we ensure seamless delivery with full documentation, quality inspection reports, and SGS certification upon request..",
+    "specifications": "Freezing point: -47 oc\nFlash point: 2380C\nDensity @ 150C: 775-840 kg/m3\nKinematic viscosity @ -200C: S8.O mm2/s\nCompliance: ASTM D1655/ DEF STAN 91-091\nFuel"
+  }
+]
+  

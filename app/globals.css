@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 10, 10, 10; /* Near black for text */
+  --background-start-rgb: 255, 255, 255; /* White */
+  --background-end-rgb: 240, 240, 240; /* Light grey */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 245, 245, 245; /* Light grey for text */
+    --background-start-rgb: 20, 20, 20;    /* Near black */
+    --background-end-rgb: 0, 0, 0;        /* Black */
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgb(var(--background-end-rgb))
+  )
+  rgb(var(--background-start-rgb));
+}
+
+/* Themed UI Elements */
+.glass-card {
+  /* Light mode: subtle dark card */
+  @apply bg-black/5 backdrop-blur-lg border border-black/10 rounded-xl shadow-lg;
+}
+
+@media (prefers-color-scheme: dark) {
+  .glass-card {
+    /* Dark mode: subtle light card */
+    @apply bg-black/70 backdrop-blur-lg border border-gold/20 rounded-xl shadow-lg;
+  }
+}
+
+.themed-border {
+  @apply border border-gold/30 shadow-[0_0_10px_theme('colors.gold.30')];
+}
+
+.futuristic-border {
+  @apply border border-gold/50 shadow-[0_0_15px_rgba(255,215,0,0.5)];
+}
+
+.glow-text-gold {
+  @apply text-gold drop-shadow-[0_0_8px_rgba(var(--colors-gold-rgb),0.8)];
+}
+
+.gradient-text {
+  @apply text-transparent bg-clip-text bg-gradient-to-r from-gold-dark via-gold to-gold-light;
+}
+
+/* Category buttons styling */
+.category-button {
+  @apply px-4 py-2 rounded-full text-sm transition-all duration-300;
+}
+
+.category-button-active {
+  @apply bg-futuristic-gradient text-white font-medium;
+}
+
+.category-button-inactive {
+  @apply bg-black/70 text-gray-300 hover:text-gold-pale hover:bg-black/80 hover:border-gold/30 border border-transparent;
+}
+
+/* .gradient-text might need a new gradient definition in tailwind.config.js if cyber-gradient is cyan-based */
+/* For now, let's make it use the gold color directly or a simple gold gradient */
+.gradient-text-gold {
+  @apply text-transparent bg-clip-text bg-gradient-to-r from-gold via-yellow-300 to-gold;
+}
