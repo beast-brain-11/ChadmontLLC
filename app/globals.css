@@ -3,17 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 10, 10, 10; /* Near black for text */
-  --background-start-rgb: 255, 255, 255; /* White */
-  --background-end-rgb: 240, 240, 240; /* Light grey */
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 245, 245, 245; /* Light grey for text */
-    --background-start-rgb: 20, 20, 20;    /* Near black */
-    --background-end-rgb: 0, 0, 0;        /* Black */
-  }
+  --foreground-rgb: 245, 245, 245; /* Light grey for text */
+  --background-start-rgb: 20, 20, 20;    /* Near black */
+  --background-end-rgb: 0, 0, 0;        /* Black */
 }
 
 body {
@@ -28,15 +20,8 @@ body {
 
 /* Themed UI Elements */
 .glass-card {
-  /* Light mode: subtle dark card */
-  @apply bg-black/5 backdrop-blur-lg border border-black/10 rounded-xl shadow-lg;
-}
-
-@media (prefers-color-scheme: dark) {
-  .glass-card {
     /* Dark mode: subtle light card */
     @apply bg-black/70 backdrop-blur-lg border border-gold/20 rounded-xl shadow-lg;
-  }
 }
 
 .themed-border {
