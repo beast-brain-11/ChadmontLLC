@@ -64,14 +64,18 @@ const ProductDialog = ({ product, onClose }) => {
             <p className="mb-2">{product["Logistics & Export"]}</p>
           </div>
         )}
-        <div className="text-gray-300 mb-4 p-4 rounded-md bg-black/20">
-          <h4 className="font-semibold text-lg text-gold">Uses:</h4>
-          <p className="mb-2">{product.uses}</p>
-        </div>
-        <div className="text-gray-300 mb-4 p-4 rounded-md bg-black/20">
-          <h4 className="font-semibold text-lg text-gold">Storage:</h4>
-          <p className="mb-2">{product.storage}</p>
-        </div>
+        {!['EN590 Diesel (1Oppm)', 'Jet Aviation'].includes(product.name) && (
+          <>
+            <div className="text-gray-300 mb-4 p-4 rounded-md bg-black/20">
+              <h4 className="font-semibold text-lg text-gold">Uses:</h4>
+              <p className="mb-2">{product.uses}</p>
+            </div>
+            <div className="text-gray-300 mb-4 p-4 rounded-md bg-black/20">
+              <h4 className="font-semibold text-lg text-gold">Storage:</h4>
+              <p className="mb-2">{product.storage}</p>
+            </div>
+          </>
+        )}
         <div className="text-gray-300 mb-6 p-4 rounded-md bg-black/20">
           <h4 className="font-semibold text-lg text-gold">Specifications:</h4>
           <p className="mb-2">{product.specifications}</p>
