@@ -64,7 +64,7 @@ const ProductDialog = ({ product, onClose }) => {
             <p className="mb-2">{product["Logistics & Export"]}</p>
           </div>
         )}
-        {!['EN590 Diesel (1Oppm)', 'Jet Aviation'].includes(product.name) && (
+        {!['EN590 Diesel (1Oppm)', 'Jet Aviation', 'D6 Virgin FUEL'].includes(product.name) && (
           <>
             <div className="text-gray-300 mb-4 p-4 rounded-md bg-black/20">
               <h4 className="font-semibold text-lg text-gold">Uses:</h4>

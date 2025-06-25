@@ -153,6 +153,13 @@ const Products = () => {
       category: 'aviationFuel',
       icon: '✈️',
     },
+    // Diesel Fuel - D6
+    {
+      name: 'D6 Virgin FUEL',
+      description: 'D6 Virgin Fuel is a high-quality fuel used in various industrial applications worldwide.',
+      category: 'dieselFuel', // Assuming it falls under diesel or a new category if needed
+      icon: '🛢️', // You can choose a more specific icon if available
+    },
   ];
 
   useEffect(() => {

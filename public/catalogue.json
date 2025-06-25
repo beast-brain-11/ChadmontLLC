@@ -138,6 +138,13 @@
     "Origin & Quality": "Our Jet A-1 supply originates in Kazakhstan and Qatar, countries with top-tier refining infrastructure and a long-standing reputation for consistent fuel production. Each batch is tested for thermal stability, flash point, and freezing point, in strict accordance with ASTM DI 655 and DEF STAN 91-091 standards.",
     "Logistics & Export": "From there, cargo is dispatched globally via FOB, CIF, or DAP terms, tailored to client requirements. Our logistics partners ensure secure, reliable, and timely deliveriesJet A-1 is exported in bulk through the Port of Rotterdam, a central node for global aviation fuel distribution. Whether supplying international airports or strategic buyers, we ensure seamless delivery with full documentation, quality inspection reports, and SGS certification upon request..",
     "specifications": "Freezing point: -47 oc\nFlash point: 2380C\nDensity @ 150C: 775-840 kg/m3\nKinematic viscosity @ -200C: S8.O mm2/s\nCompliance: ASTM D1655/ DEF STAN 91-091\nFuel"
+  },
+  {
+    "name": "D6 Virgin FUEL",
+    "description": "D6 Virgin Fuel is a high-quality fuel used in various industrial applications worldwide. Its stability under extreme conditions, low freezing point, and clean combustion make it a reliable choice for energy production.",
+    "Origin & Quality": "Our D6 Virgin Fuel supply originates in Kazakhstan, a country with top-tier refining infrastructure and a long-standing reputation for consistent fuel production. Each batch is tested for thermal stability, flash point, and freezing point, in strict accordance with ASTM D1655 and DEF STAN 91-091 standards.",
+    "Logistics & Export": "From there, cargo is dispatched globally via FOB, CIF, or DAP terms, tailored to client requirements. Our logistics partners ensure secure, reliable, and timely deliveries. D6 Virgin Fuel is exported in bulk through the Port of Rotterdam, a central hub for global fuel distribution. Whether supplying international clients or strategic buyers, we ensure seamless delivery with full documentation, quality inspection reports, and SGS certification upon request.",
+    "specifications": "Freezing point: ≤ -47°C\nFlash point: ≥38°C\nDensity @ 15°C: 775–840 kg/m³\nKinematic viscosity @ -20°C: ≤8.0 mm²/s\nCompliance: ASTM D1655 / DEF STAN 91-091"
   }
 ]
   
