@@ -144,7 +144,7 @@ const Products = () => {
       name: 'EN590 Diesel (1Oppm)',
       description: 'EN590 is the European standard for ultra-low sulfur diesel fuel, designed for maximum performance.',
       category: 'dieselFuel',
-      icon: '🛢️',
+      icon: '⛽',
     },
     // Aviation Fuel
     {
