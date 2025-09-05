@@ -40,7 +40,7 @@ const Header = () => {
           className="flex items-center"
         >
           <Link href="/" className="flex items-center">
-            <img src="/logo.svg" alt="Chadmont LLC Logo" className="h-10 mr-2" />
+            <img src="/logo.svg" alt="Chadmont LLC Logo" className="h-12 mr-2" />
             <span className="text-2xl font-bold gradient-text">CHADMONT LLC</span>
           </Link>
         </motion.div>
