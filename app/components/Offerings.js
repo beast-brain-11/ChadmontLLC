@@ -2,24 +2,54 @@
 
 import { motion } from 'framer-motion';
 
-const Services = () => {
+const Offerings = () => {
   const services = [
     {
-      title: 'Armed Security',
-      description: 'Professional armed security services to ensure the safety and protection of assets and personnel.',
-      icon: '🛡️',
+      title: 'Global Trading',
+      description: 'Facilitating commodity exchanges between suppliers and buyers across international markets with efficiency and reliability.',
+      icon: '🌐',
       color: 'from-gold/70 to-gold/30',
     },
     {
-      title: 'Specialized Training',
-      description: 'Training for aircrews, maintenance teams, and other specialized personnel to meet the highest standards.',
-      icon: '👨‍🏫',
+      title: 'Flexible Payment',
+      description: 'Adaptable payment processes tailored to meet the specific needs and conditions of our diverse client base.',
+      icon: '💳',
       color: 'from-gold/70 to-gold/30',
     },
     {
-      title: 'Aviation Assets',
-      description: 'Provision of military and civilian helicopters, complete with trained and experienced crews.',
-      icon: '🚁',
+      title: 'Secure Transactions',
+      description: 'Ensuring all deals are closed smoothly and safely with robust security measures and transparent processes.',
+      icon: '🔒',
+      color: 'from-gold/70 to-gold/30',
+    },
+    {
+      title: 'Competitive Pricing',
+      description: 'Offering market-competitive prices while maintaining the highest quality standards for all commodities.',
+      icon: '📊',
+      color: 'from-gold/70 to-gold/30',
+    },
+    {
+      title: 'Customized Logistics',
+      description: 'Tailored logistics solutions to meet the unique needs of every client, ensuring efficient and timely delivery.',
+      icon: '🚢',
+      color: 'from-gold/70 to-gold/30',
+    },
+    {
+      title: 'Quality Assurance',
+      description: 'Rigorous quality control processes to ensure all products meet or exceed international standards.',
+      icon: '✓',
+      color: 'from-gold/70 to-gold/30',
+    },
+    {
+      title: 'Global Network',
+      description: 'Extensive network of distribution representatives working globally to ensure efficiency across Europe, Asia, South America, Africa, and North America.',
+      icon: '🔄',
+      color: 'from-gold/70 to-gold/30',
+    },
+    {
+      title: 'Product Expertise',
+      description: 'Specialized knowledge in metals, agricultural commodities, fish products, and energy resources.',
+      icon: '🧠',
       color: 'from-gold/70 to-gold/30',
     },
   ];
@@ -46,10 +76,10 @@ const Services = () => {
   };
 
   return (
-    <section id="services" className="py-20 bg-black relative overflow-hidden">
+    <section id="offerings" className="py-20 bg-black/50 relative overflow-hidden">
       {/* Background elements */}
       <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] bg-repeat opacity-5"></div>
-
+      
       <div className="container mx-auto px-4">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -58,11 +88,11 @@ const Services = () => {
           transition={{ duration: 0.8 }}
           className="text-center mb-16"
         >
-          <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">
-            Our <span className="gradient-text">Services</span>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">
+            Our <span className="gradient-text">Offerings</span>
           </h2>
           <p className="text-gray-300 max-w-2xl mx-auto">
-            We offer a range of specialized services to meet your security and aviation needs.
+            Chadmont LLC offers a comprehensive range of services designed to optimize the commodity trading experience for all our clients.
           </p>
           <div className="w-20 h-1 bg-gold mx-auto mt-4 rounded-full"></div>
         </motion.div>
@@ -72,7 +102,7 @@ const Services = () => {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}
-          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto"
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8"
         >
           {services.map((service, index) => (
             <motion.div
@@ -99,4 +129,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Offerings;
